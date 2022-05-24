@@ -12,7 +12,7 @@ layout: default
 # Page Contents
 ### Original Prototypes
 #### Games made for Matt and Finn
-1. Raptor Safari
+1. [Raptor Safari](./RaptorSafari)
 
 #### Works in Progress
 1. Fighter Flightball
@@ -28,7 +28,7 @@ layout: default
 1. Soccer Shootout
 1. Clicky Crates
 1. Whack-a-Food
-1. Roll-a-Ball
+1. [Roll-a-Ball](./Rollaball)
 
 ### Jeremy Gibson Prototypes from "Introduction to Game Design, Prototyping, and Development"
 1. Apple Picker

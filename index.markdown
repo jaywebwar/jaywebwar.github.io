@@ -15,9 +15,9 @@ layout: default
 1. [Raptor Safari](./RaptorSafari)
 
 #### Works in Progress
-1. Fighter Flightball
+1. [Fighter Flightball](./FFB)
 1. Medieval Madness
-1. Trouble at the Castle
+1. [Trouble at the Castle](./TATC)
 
 ### Unity's "Create With Code" Prototypes and Unity Tutorials
 1. [Animal Feeder](./CWC-P2)
@@ -26,14 +26,14 @@ layout: default
 1. [Balloon](./CWC-C3)
 1. [Bumper Balls](./CWC-P4)
 1. [Soccer Ball Shootout](./CWC-C4)
-1. Clicky Crates
-1. Whack-a-Food
+1. [Clicky Crates](./CWC-P5)
+1. [Whack-a-Food](./CWC-C5)
 1. [Roll-a-Ball](./Rollaball)
 
 ### Jeremy Gibson Prototypes from "Introduction to Game Design, Prototyping, and Development"
-1. Apple Picker
-1. Castle Demolition
-1. Space SHUMP
+1. [Apple Picker](./JG-1)
+1. [Mission Demolition](./JG-2)
+1. [Space SHUMP](./JG-3)
 
 * * *
 

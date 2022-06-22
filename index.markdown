@@ -3,9 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
+title: JWPrototypes
 ---
 
-## [Contact me](./about)
+## [About me](./about)
 
 * * *
 

@@ -16,6 +16,7 @@ title: JWPrototypes
 1. [Raptor Safari](./RaptorSafari)
 
 #### Works in Progress
+1. [My Toony Card Game](./TCG)
 1. [Fighter Flightball](./FFB)
 1. Medieval Madness
 1. [Trouble at the Castle](./TATC)
@@ -30,6 +31,7 @@ title: JWPrototypes
 1. [Clicky Crates](./CWC-P5)
 1. [Whack-a-Food](./CWC-C5)
 1. [Roll-a-Ball](./Rollaball)
+1. [TANKS!](./Tanks)
 
 ### Jeremy Gibson Prototypes from "Introduction to Game Design, Prototyping, and Development"
 1. [Apple Picker](./JG-1)

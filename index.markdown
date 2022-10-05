@@ -17,7 +17,6 @@ title: JWPrototypes
 
 #### Works in Progress
 1. Cartoon Card Clash
-1. [Ogre Overlords](./OO)
 1. [Fighter Flightball](./FFB)
 1. [Trouble at the Castle](./TATC)
 1. Medieval Madness

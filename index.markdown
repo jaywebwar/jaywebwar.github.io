@@ -12,6 +12,7 @@ title: JWPrototypes
 
 # Page Contents
 ## Original Prototypes
+1. [Craps](./Craps)
 #### Games made for Matt and Finn
 1. [Raptor Safari](./RaptorSafari)
 

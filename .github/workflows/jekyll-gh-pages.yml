@@ -34,7 +34,7 @@ jobs:
         run: |
           sudo gem install bundler:2.3.14
           bundle install
-          bundle exec jekyll --version
+          bundle exec jekyll serve &
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
